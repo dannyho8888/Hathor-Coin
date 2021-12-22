@@ -1,1 +1,2 @@
 # Hathor-Coin
+testing
