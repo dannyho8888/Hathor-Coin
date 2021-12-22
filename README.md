@@ -14,4 +14,4 @@ Hathor Coin is a macOS app that tracks HTR Price on your menu bar.
 
 5. Enjoy your Kucoinless life
 
-## HTR addr : HAYSAPqnYCQJzUrLAtED6Ey5oghHZCEJkm ##
+### HTR addr : HAYSAPqnYCQJzUrLAtED6Ey5oghHZCEJkm ###
