@@ -51,7 +51,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
 }
 
 func getCryptoData() -> Double{
-    let address = "https://min-api.cryptocompare.com/data/price?fsym=HTR&tsyms=USD&api_key=5f15b4af86b7dda1b1434c3e913aa7c280a8e3bc1adc8dcc4ec446e980a47568"
+    let address = "https://min-api.cryptocompare.com/data/price?fsym=HTR&tsyms=USD&api_key=5f15b4af86b7dda1b1434c3e913aa7c280a8235cc4ec446e980a47568"
     
     var a : Double  = 0
     if let url = URL(string: address) {
